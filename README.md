@@ -1,0 +1,2 @@
+# syssay
+system say
